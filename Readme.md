@@ -46,7 +46,7 @@
 
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
-
+># [LIVE [HOSTED] PROJECT LINK](https://teamable-app-using-vue-js.vercel.app/ "Teamable App")
 >![Screenshot](./screenshot/screenshot-1.png)
 
 
