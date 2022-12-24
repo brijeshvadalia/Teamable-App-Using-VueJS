@@ -5,11 +5,11 @@
 [![Instagram][instagram-shield]][instagram-url]
 [![Hashnode][hashnode-shield]][hashnode-url]
 
-![BADGE](https://img.shields.io/badge/CORE_JAVASCRIPT-PROJECT-lightgrey)
-![BADGE](https://img.shields.io/badge/LCO--INEURON-HITESH%20CHOUDHARY-lightgrey)
-![BADGE](https://img.shields.io/badge/INEURON-FULL--STACK--JAVASCRIPT--WEBDEVELOPMENT-lightgrey)
-![BADGE](https://img.shields.io/badge/HTML-CSS-lightgrey)
-![BADGE](https://img.shields.io/badge/REACTJS-lightgrey)
+
+
+>![BADGE](https://img.shields.io/badge/HTML-CSS-lightgrey)
+>![BADGE](https://img.shields.io/badge/VUEJS-lightgrey)
+
 >![BADGE](https://img.shields.io/badge/MADE%20WITH%20FUN%20BY-BRIJESH%20VADALIA-blue)
 
 
