@@ -50,9 +50,6 @@
 >![Screenshot](./screenshot/screenshot-1.png)
 
 
-
-
-
 >## For any query you can reach out at brijeshvadaliya1@gmail.com I am happy to help 😎
 
 # HAPPY LEARNING 🤩
